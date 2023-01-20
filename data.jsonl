@@ -1,0 +1,1061 @@
+{"prompt":"โรงพยาบาล อยู่ในเครือข่ายมั้ย", "completion":"find_hospital"}
+{"prompt":"จังหวัด มีโรงพยาบาลในเครือข่ายมั้ย", "completion":"find_hospital"}
+{"prompt":"ในจังหวัด มีโรงพยาบาลที่เบิกได้มั้ย", "completion":"find_hospital"}
+{"prompt":"เคลมที่ไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"เคลมได้ที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"อยากเคลมประกันมันได้ที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"อยากเคลมประกันโรงพยาบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"ค้นหาโรงพยาบาลในเครือประกันเอฟดับบลิวดี", "completion":"find_hospital"}
+{"prompt":"อยากทราบข้อมูลโรงพยาบาลใกล้หน่อยค่ะ", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลไหนเคลมได้บ้าง", "completion":"find_hospital"}
+{"prompt":"มีโรงพยาบาลไหนที่เคลมแถวบ้านได้บ้าง", "completion":"find_hospital"}
+{"prompt":"จะรู้ได้ไงว่าโรงพยาบาลแถวบ้านเคลมได้", "completion":"find_hospital"}
+{"prompt":"อยากรู้ว่าโรงพยาบาลเคลมได้ไหมคะ", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาลหน่อย", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาลแถวบ้าน", "completion":"find_hospital"}
+{"prompt":"เชครพ.เครื่อข่าย", "completion":"find_hospital"}
+{"prompt":"เชครพ.ใกล้ตัว", "completion":"find_hospital"}
+{"prompt":"รพ.ไหนใช้ได้บ้าง", "completion":"find_hospital"}
+{"prompt":"เช็ครพ.ในเครือ", "completion":"find_hospital"}
+{"prompt":"รพ.ไหนเคลมได้บ้าง", "completion":"find_hospital"}
+{"prompt":"โรงบาลไหนเคลมได้บ้าง", "completion":"find_hospital"}
+{"prompt":"โรงบาลไหนใช้ได้บ้าง", "completion":"find_hospital"}
+{"prompt":"ค้นหาโรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"ค้นหารพ.", "completion":"find_hospital"}
+{"prompt":"หารพ.ใกล้ตัว", "completion":"find_hospital"}
+{"prompt":"ค้นหารพ", "completion":"find_hospital"}
+{"prompt":"ค้นหาโรงพยาบาลใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"อยากเข้าโรงบาล", "completion":"find_hospital"}
+{"prompt":"อยากเข้าโรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"ค้นหา รพ", "completion":"find_hospital"}
+{"prompt":"ค้นหา รพ.", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลใกล้ตัวมีที่ไหนคะ", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลใกล้ตัวมีที่ไหน", "completion":"find_hospital"}
+{"prompt":"มีโรงพยาบาลใกล้ๆแถวนี้มั้ยครับ", "completion":"find_hospital"}
+{"prompt":"เช็คโรงพยาบาลใกล้ตัวคะ", "completion":"find_hospital"}
+{"prompt":"ขอเช็ครพใกล้ตัว", "completion":"find_hospital"}
+{"prompt":"เช็ครพในเครือข่ายแถวนี้มีที่ไหนบ้างคะ", "completion":"find_hospital"}
+{"prompt":"หารพใกล้ตัว", "completion":"find_hospital"}
+{"prompt":"ตรวจสอบตำแหน่งโรงพยาบาลใกล้ตัวเรา", "completion":"find_hospital"}
+{"prompt":"ต้องการค้นหารพใกล้ตัวคะ", "completion":"find_hospital"}
+{"prompt":"หารพ.ใกล้ๆแถวนี้มีที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"เช็คค้นหาโรงบาลใกล้ตัว", "completion":"find_hospital"}
+{"prompt":"ตรวจสอบรพ.ใกล้ตัวค่ะ", "completion":"find_hospital"}
+{"prompt":"หารพ. ใกล้ๆหน่อย", "completion":"find_hospital"}
+{"prompt":"ค้นหารพ.ใกล้ๆนี้", "completion":"find_hospital"}
+{"prompt":"รพ. ใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"รพ. เครือข่ายมีอะไรบ้าง", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลในเครือมีอะไรบ้าง", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาลในกรุงเทพ", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาลใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลในเครือมีไรบ้าง", "completion":"find_hospital"}
+{"prompt":"มีโรงพยาบาลในเครือแถวรังสิตมั๊ย", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลเอกชนมีโรงพยาบาลไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"หาโรงพยาบาลเอกชนใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"ขอเบอร์โทรโรงพยาบาลกล้วยน้ำไท", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลไปงัย", "completion":"find_hospital"}
+{"prompt":"ขอที่อย่โรงพยาบาลเอกชล", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลอย่ตรงไหน", "completion":"find_hospital"}
+{"prompt":"มีบัตรประกันอยู่จะใช้กับโรงพยาบาลไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"ประกันของเมืองไทยเข้าโรงพยาบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"ใช้บัตรประกันได้ที่โรงพยาบาลไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"เข้าโรงพยาบาลได้หมดทุกที่ไหม", "completion":"find_hospital"}
+{"prompt":"ทำประกันไว้ ต้องการทราบโรงบาลที่ใช้สิทธิ์ได้", "completion":"find_hospital"}
+{"prompt":"ใช้สิทธิ์โรงบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"ทำประกันไว้ ใช้สิทธิ์ได้โรงบาลไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"ทำประกันไว้ อยากรู้โรงบาลที่ใช้สิทธิ์ได้", "completion":"find_hospital"}
+{"prompt":"ทำประกันว้ ต้องการทราบรายชื่อโรงบาลที่ใช้สิทธิ์ได้", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลในเครือข่าย", "completion":"find_hospital"}
+{"prompt":"อยากดูโรงพยาบาลในเครือข่าย", "completion":"find_hospital"}
+{"prompt":"ขอรายการโรงพยาบาลในเครือข่าย", "completion":"find_hospital"}
+{"prompt":"มีโรงพยาบาลในเครือข่ายที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"ที่ไหนมีโรงพยาบาลในเครือข่าย", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลในเครือข่ายอยู่ที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"เคลมที่ไหนได้", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลแถวนี้", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลที่ใกล้ที่สุด", "completion":"find_hospital"}
+{"prompt":"เข้าโรงพยาบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"เข้าโรงบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"โรงบาลใกล้ๆ", "completion":"find_hospital"}
+{"prompt":"โรงบาล", "completion":"find_hospital"}
+{"prompt":"ร.พ.", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"ค้นหาโรงบาล", "completion":"find_hospital"}
+{"prompt":"ค้นหาร.พ.", "completion":"find_hospital"}
+{"prompt":"หาร.พ.", "completion":"find_hospital"}
+{"prompt":"โรงบาลไหน", "completion":"find_hospital"}
+{"prompt":"ร.พ. ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"มีโรงพยาบาล​อะไรบ้าง", "completion":"find_hospital"}
+{"prompt":"เช็คชื่อโรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"สอบถามโรงพยาบาลที่อยุ่ในเครือข่ายค่ะ", "completion":"find_hospital"}
+{"prompt":"ขอดุสถานพยาบาลที่เข้าร่วมหน่อยคร่า", "completion":"find_hospital"}
+{"prompt":"อยากทราบเครือโรงพยาบาล", "completion":"find_hospital"}
+{"prompt":"สอบถาม รพ. ในเครือ", "completion":"find_hospital"}
+{"prompt":"ขอรายชื่อรพ.ที่เข้ารักษาได้หน่อยคะ", "completion":"find_hospital"}
+{"prompt":"รพ.ไหนรองรับประกัน​ของซิกน่าบ้างคะ", "completion":"find_hospital"}
+{"prompt":"สอบถามโรงพยาบาลในเครือ ที่สามารถเข้ารับการรักษาได้ค่ะ", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลไหนสามารถเข้ารับการรักษาได้", "completion":"find_hospital"}
+{"prompt":"ตรวจสอบรายชื่อโรงพยาบาลที่สามารถใช้ประกันได้ ตรวจสอบตรงไหนคะ", "completion":"find_hospital"}
+{"prompt":"ไปรักษาที่ใดได้บ้างคะ", "completion":"find_hospital"}
+{"prompt":"รพ ไหนใน อุบล ใช้ประกันได้บ้างครับ", "completion":"find_hospital"}
+{"prompt":"ถอนฟันเอาบัตรซิน่าจ่ายได้ไหม", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลใกล้ๆที่ไหน", "completion":"find_hospital"}
+{"prompt":"โรงพยาบาลในเครือมีที่ไหนบ้าง", "completion":"find_hospital"}
+{"prompt":"สามารถไปโรงพยาบาลไหนได้บ้าง", "completion":"find_hospital"}
+{"prompt":"ขอยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ขอยกเลิกกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกธ.", "completion":"Cancel_"}
+{"prompt":"ขอทำเรื่องยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ไม่เอาประกันแล้ว", "completion":"Cancel_"}
+{"prompt":"แจ้งยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ขอยกเลิกประกันหน่อยค่ะ", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกประกันค่ะ", "completion":"Cancel_"}
+{"prompt":"ขอทำเรื่องยกเลิกประกันหน่อยค่ะ", "completion":"Cancel_"}
+{"prompt":"อยากทำเรื่องยกเลิกกธ.", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรมธรรม์หน่อยค่ะ", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกันให้หน่อยสิ", "completion":"Cancel_"}
+{"prompt":"ผมอยากยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ขอยกเลิกประกันหน่อย", "completion":"Cancel_"}
+{"prompt":"ถูกหลอกขายประกัน", "completion":"Cancel_"}
+{"prompt":"ขอร้องเรียน", "completion":"Cancel_"}
+{"prompt":"แจ้งยกเลิก", "completion":"Cancel_"}
+{"prompt":"ขอยกเลิก", "completion":"Cancel_"}
+{"prompt":"บริการห่วย", "completion":"Cancel_"}
+{"prompt":"ติดต่อตัวแทนไม่ได้เลย", "completion":"Cancel_"}
+{"prompt":"ตัวแทนไม่ดูแลเลย", "completion":"Cancel_"}
+{"prompt":"ไม่เอาประกันที่นี่แล้ว", "completion":"Cancel_"}
+{"prompt":"ยกเลิกก.ธ.", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกันได้มั๊ย", "completion":"Cancel_"}
+{"prompt":"อยากเวรคืนกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ต้องการเวรคืนกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ขอเวรคืนกรมธรร", "completion":"Cancel_"}
+{"prompt":"เวนคืนกธ.", "completion":"Cancel_"}
+{"prompt":"ขอเวนคืนกธ.", "completion":"Cancel_"}
+{"prompt":"ขอเวนคืนกรมธรรม", "completion":"Cancel_"}
+{"prompt":"ขอเวนคืนกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ขอเวนคืนประกัน", "completion":"Cancel_"}
+{"prompt":"ขอปิดกรม", "completion":"Cancel_"}
+{"prompt":"ขอปิดกรมธรรม์", "completion":"Cancel_"}
+{"prompt":"I want to cancel my policy", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรรมธรรม์", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกกรรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิกกรรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรรมธรรม์ต้องทำยังไง", "completion":"Cancel_"}
+{"prompt":"ทำอย่างไรจะยกเลิกกรรมธรรม์", "completion":"Cancel_"}
+{"prompt":"ยกเลิก", "completion":"Cancel_"}
+{"prompt":"ขอเงินคืน", "completion":"Cancel_"}
+{"prompt":"ยกเลิกแล้วแต่ยังถูกตัดเงินอยู่", "completion":"Cancel_"}
+{"prompt":"แจ้งยกเลิก ทำไมไม่โทรกลับ", "completion":"Cancel_"}
+{"prompt":"รายละเอียดการยกเลิก", "completion":"Cancel_"}
+{"prompt":"ยกเลิก ทำยังไง", "completion":"Cancel_"}
+{"prompt":"จะยกเลิก", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิก", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิก", "completion":"Cancel_"}
+{"prompt":"ยกเลิกบัตรเครดิต", "completion":"Cancel_"}
+{"prompt":"ยกเลิกสัญญา", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ไม่เอาแล้วประกันซิกน่า", "completion":"Cancel_"}
+{"prompt":"ไม่มีเงิน", "completion":"Cancel_"}
+{"prompt":"ส่งไม่ไหว", "completion":"Cancel_"}
+{"prompt":"หลอกลวง ไม่เอา", "completion":"Cancel_"}
+{"prompt":"ยกเลิกทั้งหมด", "completion":"Cancel_"}
+{"prompt":"ขั้นตอนการยกเลิก", "completion":"Cancel_"}
+{"prompt":"ตกงาน ไม่มีเงิน", "completion":"Cancel_"}
+{"prompt":"กรณียกเลิก", "completion":"Cancel_"}
+{"prompt":"ไม่ยอมยกเลิกให้", "completion":"Cancel_"}
+{"prompt":"เคลมไม่ได้ ยกเลิก", "completion":"Cancel_"}
+{"prompt":"จ่ายไม่ไหว ลดเบี้ย", "completion":"Cancel_"}
+{"prompt":"ลดเบี้ย", "completion":"Cancel_"}
+{"prompt":"ขอลดเบี้ย", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรมธรรม์​", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรมธรรม์ค่ะ", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกันครับ", "completion":"Cancel_"}
+{"prompt":"ติดต่อขอยกเลิกประกันค่ะ", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกกรมธรรม์ค่ะ", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิก กรมธรรม์ ครับ", "completion":"Cancel_"}
+{"prompt":"หากจะขอยกเลิกกรมทันต้องทำไงคะ", "completion":"Cancel_"}
+{"prompt":"ตอ้งการยกเลิกครับ", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกันภัยค่ะ", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกประกันทำไง", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิกประกันภัย", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิกประกัน ต้องติดต่อทางไหนคะ", "completion":"Cancel_"}
+{"prompt":"ผมจะขอยกเลิกกรรมธรรม์หน่อยครับ", "completion":"Cancel_"}
+{"prompt":"ยกเลิก​กรมธรรม์​", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกกรมธรรม์ทำไง", "completion":"Cancel_"}
+{"prompt":"ขอยกเบิกประกันค่ะ", "completion":"Cancel_"}
+{"prompt":"แจ้งยกเลิกประกันค่ะ", "completion":"Cancel_"}
+{"prompt":"ต้องการยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"ยกเลิกประกันซิกน่า", "completion":"Cancel_"}
+{"prompt":"พอดีจะยกเลิกประกันไม่เอาแร้วค่ะต้องทำยังใงค่ะ", "completion":"Cancel_"}
+{"prompt":"ขอยกเลิกการเอาประกันอุบัติเหตุทุกอย่าง", "completion":"Cancel_"}
+{"prompt":"ยกเลิกกรมธรรม์ยังไงคะ", "completion":"Cancel_"}
+{"prompt":"ถึงเดือนหักเอาแต่เงินกูจะยกเลิกกรมธรรม์ดีไหม", "completion":"Cancel_"}
+{"prompt":"ถ้ายกเลิกกรมธรรม์ จะได้เงินที่จ่ายไปคืนมั้ยค่ะ", "completion":"Cancel_"}
+{"prompt":"ผมจะยกเลิกการทำประกันกับคุณ", "completion":"Cancel_"}
+{"prompt":"สอบถามเรื่องการยกเลิกประกัน ตัองติดต่อทางไหนคะ", "completion":"Cancel_"}
+{"prompt":"สามารถยกเลิกผ่านช่องทางนี้ได้มั้ยคะ", "completion":"Cancel_"}
+{"prompt":"ต้องแจ้งอะไรบ้างครับหากต้องการยกเลิกประกัน", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกโอนเงินให้คืนมั้ยคะ", "completion":"Cancel_"}
+{"prompt":"ถ้าจะยกประกันเราจะต้องติดต่อที่ไหนค่ะ", "completion":"Cancel_"}
+{"prompt":"อยากยกเลิกประกันอุบัติเหตุต้องทำยังไงคะ", "completion":"Cancel_"}
+{"prompt":"จะยกเลิกสัญญา​ประกันต้องทำอย่างไร​บ่างค่ะ", "completion":"Cancel_"}
+{"prompt":"ยกเลิกให้ช้ามากติดต่อไปนานแล้ว", "completion":"Cancel_"}
+{"prompt":"กรมธรรม์อะไรบ้าง", "completion":"ask_policy"}
+{"prompt":"กี่กรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยเท่าไหร่", "completion":"ask_policy"}
+{"prompt":"สอบถามประกันของตัวเอง", "completion":"ask_policy"}
+{"prompt":"อยากรู้ประกันของตัวเอง", "completion":"ask_policy"}
+{"prompt":"อยากรู้ประกันของเรา", "completion":"ask_policy"}
+{"prompt":"ดูประกันของเรา", "completion":"ask_policy"}
+{"prompt":"ขอดูกธ.", "completion":"ask_policy"}
+{"prompt":"ขอดูกธ", "completion":"ask_policy"}
+{"prompt":"ดูประกันของฉัน", "completion":"ask_policy"}
+{"prompt":"อยากดูกธ.", "completion":"ask_policy"}
+{"prompt":"ดูกธ.", "completion":"ask_policy"}
+{"prompt":"ดึงข้อมูลกรมธรรม์ให้หน่อยครับ", "completion":"ask_policy"}
+{"prompt":"ขอดูกรมธรรม์ของผมหน่อย", "completion":"ask_policy"}
+{"prompt":"ดูประกันที่ซื้อไว้", "completion":"ask_policy"}
+{"prompt":"ดูกรมธรรม์ที่ซื้อไว้", "completion":"ask_policy"}
+{"prompt":"เช็คชำระเบี้ย", "completion":"ask_policy"}
+{"prompt":"เช็คเบี้ยประกัน", "completion":"ask_policy"}
+{"prompt":"ครบกำหนดชำระเบี้ยเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบกธ", "completion":"ask_policy"}
+{"prompt":"เช็คกธ", "completion":"ask_policy"}
+{"prompt":"เช็คกรม", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบกรม", "completion":"ask_policy"}
+{"prompt":"พี่ต้องจ่ายค่าเบี้ยประกันอีกทีเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"อยากรู้ว่าต้องจ่ายเบี้ยประกันเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"งวดนี้ต้องจ่ายเบี้ยประกันวันที่เท่าไหร่", "completion":"ask_policy"}
+{"prompt":"ขอดูรายละเอียดกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ขอรายละเอียดกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยเมื่อไร", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยวันไหน", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยวันไหน", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยวันอะไร", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยวันอะไร", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยวันที่เท่าไร", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยวันที่เท่าไร", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยมะไหร่", "completion":"ask_policy"}
+{"prompt":"ต้องจ่ายเบี้ยมะไหร่", "completion":"ask_policy"}
+{"prompt":"จ่ายเบี้ยมะไหล่", "completion":"ask_policy"}
+{"prompt":"อยากรู้กรมธรรม์จัง", "completion":"ask_policy"}
+{"prompt":"ขอดูกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"เมื่อไหร่จะได้สลักหลังเพิ่มผู้รับผลประโยชน์", "completion":"ask_policy"}
+{"prompt":"ส่งเอกสารสลักหลังประกันอุบัติเหตุให้หน่อย", "completion":"ask_policy"}
+{"prompt":"ประกันอัคคีภัยที่ทำอยู่ทุนเท่าไร", "completion":"ask_policy"}
+{"prompt":"ต้องการดูรายละเอียดกรมธรรม์ได้ไหม", "completion":"ask_policy"}
+{"prompt":"กธ.ของผมหมดออายุวันไหน", "completion":"ask_policy"}
+{"prompt":"ขอสอบถามวันหมดอายุกธ", "completion":"ask_policy"}
+{"prompt":"กธหมดเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ทะเบียนรถคันนี้ทุนประกันเท่าไหร่", "completion":"ask_policy"}
+{"prompt":"วันไหนที่ กธ.สิ้นสุด", "completion":"ask_policy"}
+{"prompt":"กธ. หมดวันไหน", "completion":"ask_policy"}
+{"prompt":"ทำกรมธรรม์อุบัติเหตุไว้ยังไม่ได้จะส่งกี่วัน", "completion":"ask_policy"}
+{"prompt":"ขอสำเนากรมธรรม์หน่อยได้ไหม", "completion":"ask_policy"}
+{"prompt":"เมื่อไหร่จะได้กธ.ตัวจริง", "completion":"ask_policy"}
+{"prompt":"เมื่อไหนที่ กธ.จะสิ้นสุดความคุ้มครอง", "completion":"ask_policy"}
+{"prompt":"กธ.จะหมดอายุเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"วันหมดอายุกธ", "completion":"ask_policy"}
+{"prompt":"วันไหนทื่ กธ.จัดส่งออก", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์รถยนต์หมดอายุเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"สอบถามความคุ้มครองกธ.ระบุซ่อมอู่หรือห้าง", "completion":"ask_policy"}
+{"prompt":"จะได้รับสลักหลังเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ทะเบียนรถคันนี้หมดอายุกธ.วันไหน", "completion":"ask_policy"}
+{"prompt":"ส่งเอกสารกธ.ให้ได้หรือไม่", "completion":"ask_policy"}
+{"prompt":"ต้องการเอกสารสลักหลังประกันอุบัติเหตุหน่อย", "completion":"ask_policy"}
+{"prompt":"ส่งเอกสารสลักหลังประกันสุขภาพให้หน่อย", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์จะส่งมาเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ส่งออกมาหรือยัง", "completion":"ask_policy"}
+{"prompt":"กธ.จัดส่งออกหรือยัง", "completion":"ask_policy"}
+{"prompt":"กธ.ฉบับนี้เป็นเบี้ยอู่หรือเบี้ยห้าง", "completion":"ask_policy"}
+{"prompt":"กธ.ที่ทำไว้คุ้มครองอะไรบ้าง", "completion":"ask_policy"}
+{"prompt":"จะขอสำเนา กธ.ต้องทำอย่างไร", "completion":"ask_policy"}
+{"prompt":"ขอดูรายละเอียดกรมธรรม์ได้มั๊ย", "completion":"ask_policy"}
+{"prompt":"ขอสำเนา กธ.ได้มั้ย", "completion":"ask_policy"}
+{"prompt":"ประกันอุบัติเหตุสามารถทำทุนได้เท่าไหร่", "completion":"ask_policy"}
+{"prompt":"จะขอสน.กธ.ทำยังไง", "completion":"ask_policy"}
+{"prompt":"ต้องการให้ส่งเอกสารกธ.ฉบับใหม่ได้หรือไม่", "completion":"ask_policy"}
+{"prompt":"ต้องการขอกธ.ใหม่ต้องทำอย่างไร", "completion":"ask_policy"}
+{"prompt":"ผมอยากได้ใบกรรมธรรม์ครับ", "completion":"ask_policy"}
+{"prompt":"ผมอยากได้เอกสารการคุ้มครอง", "completion":"ask_policy"}
+{"prompt":"ไม่ทราบว่าส่งเอกสารกรมธรรม์พร้อมบัตร มาเมื่อไรค่ะ", "completion":"ask_policy"}
+{"prompt":"ตอนนี้หากรมธรรม์ไม่เจอ จะรบกวนขอทางนี้ได้หรือไม่ครับ", "completion":"ask_policy"}
+{"prompt":"ผมขอเช็ดข้อมูลให้หน่อยครับว่าผมมีประกันกับเมืองไทยมั้ย", "completion":"ask_policy"}
+{"prompt":"ขอดูกรมธรรม์หน่อย", "completion":"ask_policy"}
+{"prompt":"ขอเอกสารสลักหลัง", "completion":"ask_policy"}
+{"prompt":"ส่งกรมธรรม์ให้ยัง", "completion":"ask_policy"}
+{"prompt":"ทุนประกันกี่บาท", "completion":"ask_policy"}
+{"prompt":"กธ.ประกันรถ คุ้มครองอะไรบ้าง", "completion":"ask_policy"}
+{"prompt":"ถามที่อยุ่หน้ากธ.ประกันรถ", "completion":"ask_policy"}
+{"prompt":"ดูกรมธรรม์ประกันรถยนต์หน่อย", "completion":"ask_policy"}
+{"prompt":"ดูกรมธรรม์ประกันสุขภาพหน่อย", "completion":"ask_policy"}
+{"prompt":"ถามที่อยุ่หน้ากธ.ประกันอัคคีภัย", "completion":"ask_policy"}
+{"prompt":"กธ.ประกันอุบัติเหตุ คุ้มครองอะไรบ้าง", "completion":"ask_policy"}
+{"prompt":"กธ.ประกันอัคคีภัย คุ้มครองอะไรบ้าง", "completion":"ask_policy"}
+{"prompt":"ดูกรมธรรม์ประกันรถยน", "completion":"ask_policy"}
+{"prompt":"ดูกรมธรรม์ประกันรถยนต์", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ ของผมจะหมดอายุเมื่อไร", "completion":"ask_policy"}
+{"prompt":"อยากเช็คกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ออกหรือยัง", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ของผมมีไหม", "completion":"ask_policy"}
+{"prompt":"อยากดูประกันของตัวเอง", "completion":"ask_policy"}
+{"prompt":"ถามกรมธรรม์อุบัติเหตุ", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ของผม", "completion":"ask_policy"}
+{"prompt":"ประกันภัยของดิฉัน", "completion":"ask_policy"}
+{"prompt":"มีกรมธรรม์ของผมที่นี่หรือไม่", "completion":"ask_policy"}
+{"prompt":"สอบถามรายละเอียดกรมธรรม์หน่อย", "completion":"ask_policy"}
+{"prompt":"กธหมดเมื่อไร", "completion":"ask_policy"}
+{"prompt":"ขอสลักหลัง", "completion":"ask_policy"}
+{"prompt":"สอบถามรายละเอียด กธ เดินทาง มีอะไรบ้างครับ", "completion":"ask_policy"}
+{"prompt":"ติดตามการออกกรมธรรม์ครับ", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ของวิชาญ", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์วิชาญ", "completion":"ask_policy"}
+{"prompt":"ถามข้อมูลกธ.ได้ไหมคะ", "completion":"ask_policy"}
+{"prompt":"เบี้ยประกันอัคคีภัยหมดวันไหน", "completion":"ask_policy"}
+{"prompt":"อยากรู้ว่าเอกสารที่ทำประกันไว้จะได้เมื่อไรตอนไหนค่ะ", "completion":"ask_policy"}
+{"prompt":"เราทำไปแล้วแต่ยังไม่ได้เอกกระสาร", "completion":"ask_policy"}
+{"prompt":"เช็คหมายเลขกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"สวัสดีค่ะอยากสอบถาม​ เลขกรรมธรรม์ประกันคะ", "completion":"ask_policy"}
+{"prompt":"อยากตรวจสอบสิทธิ์ค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากเช็คสิทธิ์กรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"ประกันของผมขาดส่งรึป่าวผมเช็คได้แบบไหนคับ", "completion":"ask_policy"}
+{"prompt":"ประกันของผมหมดอายุหรือยัง", "completion":"ask_policy"}
+{"prompt":"ผมจะเช็คประกันหมดอายุหรือยัง", "completion":"ask_policy"}
+{"prompt":"สอบถามกรมธรรม์ว่ายังมีผลอยู่หรือเปล่า", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบได้ไหมว่าผมมีประกันอยู่ที่นี่ไหม", "completion":"ask_policy"}
+{"prompt":"วันนี้ยังไม่ได้รับเอกสารเลยนะคะ", "completion":"ask_policy"}
+{"prompt":"กรมธรรม์ของผมทุนประกันเท่าไร", "completion":"ask_policy"}
+{"prompt":"สอบถามเลขที่กรมธรรม์ได้ไหมคะ", "completion":"ask_policy"}
+{"prompt":"ถามเลขที่กรมธรรนออกยัง", "completion":"ask_policy"}
+{"prompt":"อยากสอบถามว่าประกันของผมยังสามารถใช้ได้อยู่ไหมครับ", "completion":"ask_policy"}
+{"prompt":"อยากทราบข้อมูลกรมธรรมทั้งหมดครับ", "completion":"ask_policy"}
+{"prompt":"สอบถามกรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"ไม่แน่ใจรถต่อประกันไปหรือยัง", "completion":"ask_policy"}
+{"prompt":"อยากสอบถาม ว่าประกันภัยที่ทำยังคุ้มครองอยู่ไหมครับ", "completion":"ask_policy"}
+{"prompt":"ถ้าต้องการเช็คเลขกรมธรรม์ต้องเช็คที่ไหนคะ", "completion":"ask_policy"}
+{"prompt":"สอบถามเลขกรมทันครับ", "completion":"ask_policy"}
+{"prompt":"ต้องการขอเอกสาร สำเนากรมธรรม์ ค่ะ", "completion":"ask_policy"}
+{"prompt":"จะต่ออายุประกันอัคคีภัย", "completion":"ask_policy"}
+{"prompt":"ต้องการเช็คข้อมูลที่ทำประกันเอาไว้ค่ะ", "completion":"ask_policy"}
+{"prompt":"ช่วยหาเลขกรมะรรม์ ให้เราด้วย", "completion":"ask_policy"}
+{"prompt":"ถ้าจะสอบถามว่าประกันหมดเมื่อไรนะค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากตรวจสอบสถานะกรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"รบกวนช่วยเช็คสถานะประกัน", "completion":"ask_policy"}
+{"prompt":"อยากถามกรมทัณของแม่", "completion":"ask_policy"}
+{"prompt":"ขอทราบกรมธรรมเดิม", "completion":"ask_policy"}
+{"prompt":"ซื้อไปแล้วแต่จำเลข กรมธรรม์ ไม่ได้ค่ะ", "completion":"ask_policy"}
+{"prompt":"จำเลขตัวถังรถไม่ได้", "completion":"ask_policy"}
+{"prompt":"ถ้าจะขอสำเนากรมธรรม์ต้องทำยังไงคะ", "completion":"ask_policy"}
+{"prompt":"เชคสิทธิ", "completion":"ask_policy"}
+{"prompt":"สอบถามว่าประกันภัยขาดหรือยัง", "completion":"ask_policy"}
+{"prompt":"จะขอหน้ากรมธรรม์รถยนต์", "completion":"ask_policy"}
+{"prompt":"อยากจะสอบถามเลขกมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากจะสอบถามเลขกรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากจะสอบถามเลขกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ต้องการจะสอบถามเลขกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ต้องการขอสำเนาเอกสารกรรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากตรวจสอบสถานะประกันภัยครับ", "completion":"ask_policy"}
+{"prompt":"ขอตรวจสอบกรมธรรมค่ะ", "completion":"ask_policy"}
+{"prompt":"รบกวนสอบถาม ประกันภัยเลขที่กรมธรรม์", "completion":"ask_policy"}
+{"prompt":"รบกวนสอบถาม กรมธรรม์เลขที่", "completion":"ask_policy"}
+{"prompt":"ขอตรวจสอบเลขที่รับแจ้งค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากเช็คประกันว่าหมดวันไหนครับ", "completion":"ask_policy"}
+{"prompt":"สอบถามเรื่อง ประวัติเคลมหน่อยครับผม", "completion":"ask_policy"}
+{"prompt":"จะขอข้อมูลของ กรรมธรรม์เลขที่", "completion":"ask_policy"}
+{"prompt":"สามารถเข้าไปเช็คกรมธรรม์ได้จากตรงไหนคะ", "completion":"ask_policy"}
+{"prompt":"จะสอบถามรายละเอียดประกันที่ซื้อไว้ คะ", "completion":"ask_policy"}
+{"prompt":"ต่อไปแล้วค่ะ แต่ยังไม่ได้รับเอกสารค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากรู้ข้อมูลค่ะ ว่าอยู่ในประกันประเภทไหน", "completion":"ask_policy"}
+{"prompt":"อยากทราบความคืบหน้าเกี่ยวกับประกันอุบัติเหตุที่ทำไป", "completion":"ask_policy"}
+{"prompt":"สอบถามเลขกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ต่อทะเบียบกับพรบ", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบสิทธิ์", "completion":"ask_policy"}
+{"prompt":"ทำกรมธรรม์ ประกันภัยหายน่ะค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากเช็คสิทธิ์หน่อย", "completion":"ask_policy"}
+{"prompt":"สามารถเช็คว่าใช้ประกันชั้นไหนอยู่ได้ยังไงคะ", "completion":"ask_policy"}
+{"prompt":"จะขอสำเนากรรมทัน ครับ", "completion":"ask_policy"}
+{"prompt":"อยากรู้เลขกรรมตัวเอง", "completion":"ask_policy"}
+{"prompt":"อยากถามเรื่องประกันรถยนต์ที่ทำไปค่ะ", "completion":"ask_policy"}
+{"prompt":"ประกันทำแล้วค่ะกับเมืองไทย", "completion":"ask_policy"}
+{"prompt":"อยากทราบว่ารถทำประกันอะไรไว้ค่ะ", "completion":"ask_policy"}
+{"prompt":"มีประกันภัยแล้ว แต่ยังไม่ได้รับ กรมธรรม", "completion":"ask_policy"}
+{"prompt":"ขอตรวจสอบกรมธรรม์ประกันที่มีอยู่", "completion":"ask_policy"}
+{"prompt":"ทำประกันรถยนต์ไว้ยังไม่ได้รับกรมธรรม์เลยค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากสอบถามเรื่องสิทธิ์การคุ้มครองประกันภัยรถยนต์", "completion":"ask_policy"}
+{"prompt":"จะสอบถามเรื่องกรมธรรณ์รถยนต์ที่ต่อไปหน่อยค่ะ", "completion":"ask_policy"}
+{"prompt":"จะสอบถามกรมธรรม์ของคุณแม่อ่ะค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากได้สำเนาที่เคยทำของปีที่แล้วค่ะ", "completion":"ask_policy"}
+{"prompt":"อยากทราบประโยชกรมทันคะ", "completion":"ask_policy"}
+{"prompt":"ซื้อไปแล้วค่ะ อยากสอบถามว่าจะได้กรมธรรม์เมื่อไหร่คะ", "completion":"ask_policy"}
+{"prompt":"ต้องการขอเช็คสิทธิ์ค่ะว่าจะใช้กรมธรรม์ที่ซื้อแล้วได้ไหม", "completion":"ask_policy"}
+{"prompt":"อยากตรวจสอบรายชื่อว่าเข้าในระบบประกันหรือไม่.", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันแล้วไม่ได้รับกรมธรรม์ค่ะ", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบรายชื่อที่ทำประกันภัยไว้ครับ", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบชื่อที่ทำประกันไว้ครับ", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบเลขกรมทัณได้ทางไหนบ้างครับ", "completion":"ask_policy"}
+{"prompt":"ต้องการเช็คประกันที่มีอยู่ค่ะ", "completion":"ask_policy"}
+{"prompt":"ผมต้องการ ทราบลายละเอียดประกันที่ผมซื้อ", "completion":"ask_policy"}
+{"prompt":"ทำประกันแล้วได้รับเอกสารกี่วัน", "completion":"ask_policy"}
+{"prompt":"ทำประกันแล้วเมืื่อไหร่จะไดรับกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"จะได้รับกรมธรรม์เมือ่ไหร่", "completion":"ask_policy"}
+{"prompt":"กี่วันได้รับกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"กรรมธรรม์อีกกี่ถึงจะได้รับ", "completion":"ask_policy"}
+{"prompt":"จะได้รับเอกสารประกันกี่วันหลังจากตกลงทำประกัน", "completion":"ask_policy"}
+{"prompt":"ทำประกันแล้วเมื่อไหร่จะได้รับกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันแล้ว แต่ยังไม่ได้รับกรมธรรม์เลย", "completion":"ask_policy"}
+{"prompt":"แจ้งทำประกันไว้แล้ว จัดส่งกรมธรรม์กี่วันถึงจะได้", "completion":"ask_policy"}
+{"prompt":"แจ้งทำประกันรถยนต์อยากทราบระยะเวลาที่ได้รับกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันรถยนต์ ใช้เวลากี่วันจัดส่งกรมธรรม์ให้", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันภัยรถยนต์ใช้เวลากี่วันจัดส่งกรมธรรม์ให้", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันบนwebแล้วจะได้กรมธรรม์เมื่อไร", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันแล้วจะได้กรมธรรม์เมื่อไร", "completion":"ask_policy"}
+{"prompt":"จ่ายเงินแล้วจะได้กรมธรรม์เมื่อไร", "completion":"ask_policy"}
+{"prompt":"ถ้าซื้อประกันรถยนต์ผ่านระบบออนไลน์ จะได้รับคุ้มครองทันทีหรือไม่?", "completion":"ask_policy"}
+{"prompt":"ซื้อประกันรถยนต์ Online แล้วเริ่มคุ้มครองเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ประกันรถยนต์ผ่าน ออนไลน์ เริ่มคุ้มครองกี่โมง", "completion":"ask_policy"}
+{"prompt":"ซื้อพ.ร.บ. Online เริ่มคุ้มครองวันไหน", "completion":"ask_policy"}
+{"prompt":"ชื้อประกันรถยนต์ พร้อมพรบ. ผ่านหน้า web เริ่มคุ้มครองพร้อมกันมั๊ย", "completion":"ask_policy"}
+{"prompt":"หลังจากซื้อประกันผ่านเวบ สำเร็จแล้วเริ่มคุ้มครองเลยหรือไม่", "completion":"ask_policy"}
+{"prompt":"ซื้อกรมธรรม์บนเวบไซด์ คุ้มครองวันที่ซื้อเลยหรือเปล่า", "completion":"ask_policy"}
+{"prompt":"ซื้อประกัน ออนไลน์วันนี้คุ้มครองวันนี้หรือไม่", "completion":"ask_policy"}
+{"prompt":"ประกันเดิมหมดวันนี้ถ้าซื้อใหม่วันนี้จะคุ้มครองตอนไหน", "completion":"ask_policy"}
+{"prompt":"ทำประกัน Health มีระยะเวลารอคอยไหม", "completion":"ask_policy"}
+{"prompt":"ประกันอุบัติเหตุใช้สิทธิ์ได้เลยไหม", "completion":"ask_policy"}
+{"prompt":"ประกันอุบัติเหตุใช้สิทธิ์ได้เมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ประกันสุขภาพสามารถใช้สิทธิ์ได้เลยไหม", "completion":"ask_policy"}
+{"prompt":"ประกันอุบัติเหตุคุ้มครองกี่โมง", "completion":"ask_policy"}
+{"prompt":"ประกันอุบัติเหตุคุ้มครองเลยไหม", "completion":"ask_policy"}
+{"prompt":"ชำรำเบี้ยไปแล้วคุ้มครองจริงเหรอ", "completion":"ask_policy"}
+{"prompt":"ประกัน PA ซื้อแล้วคุ้มครองทันทีเลยมั้ยครับ", "completion":"ask_policy"}
+{"prompt":"ถ้าเริ่มซื้อประกันตอนนี้ แล้วคุ้มครองเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"คุ้มครองเวลาไหน", "completion":"ask_policy"}
+{"prompt":"เมื่อสมัครแล้ว รอการอนุมัตินานไหม ระยะเวลาคุ้มครองจะเริ่มได้เมื่อไร", "completion":"ask_policy"}
+{"prompt":"เมื่อสมัครแล้วรอการอนุมัตินานไหม", "completion":"ask_policy"}
+{"prompt":"ระยะเวลาคุ้มครองจะเริ่มได้เมื่อไร", "completion":"ask_policy"}
+{"prompt":"คือผมสมัคร ไปแล้วเงินก็ชำระไปแล้วจะได้กรมธรรม์เมื่อไร", "completion":"ask_policy"}
+{"prompt":"ชำระเงินแล้วกรมธรรม์จะได้เลยมั้ยครับ", "completion":"ask_policy"}
+{"prompt":"สมัครประกันออนไลน์ ความคุ้มครองจะเริ่มเมื่อไหร่", "completion":"ask_policy"}
+{"prompt":"ฉันมีหลายกรมธรรม์ ต้องทำอย่างไร", "completion":"ask_policy"}
+{"prompt":"เรามีกรมธรรม์หลายฉบับจะหาข้อมูลอย่างไร", "completion":"ask_policy"}
+{"prompt":"มีกรมธรรม์มากกว่า 1 ฉบับทำอย่างไร", "completion":"ask_policy"}
+{"prompt":"ค้นหากรมธรรม์มีละหลายๆ เล่ม", "completion":"ask_policy"}
+{"prompt":"ค้นกรมธรรม์", "completion":"ask_policy"}
+{"prompt":"ตรวจสอบข้อมูลกรมธรรม์ของผมได้ที่ไหน", "completion":"ask_policy"}
+{"prompt":"หากรมธรรม์ที่ทำไว้ได้อย่างไร", "completion":"ask_policy"}
+{"prompt":"ขอดูกรมธรรม์ทั้งหมดได้ไหม", "completion":"ask_policy"}
+{"prompt":"แสดงรายการกรมธรรม์มาให้ฉันดูหน่อย", "completion":"ask_policy"}
+{"prompt":"ขอดูกรมธรรม์ของผมหน่อยครับ", "completion":"ask_policy"}
+{"prompt":"ผมจำไม่ได้ว่ามีกี่กรมธรรม์", "completion":"ask_policy"}
+{"prompt":"จะดูกรมธรรม์ยังไง", "completion":"ask_policy"}
+{"prompt":"จะรู้ได้อย่างไรว่ามีกี่กรมธรรม์", "completion":"ask_policy"}
+{"prompt":"จะดูยังไงว่ามีกรมธรรม์กี่เล่ม", "completion":"ask_policy"}
+{"prompt":"หากรมธรรม์ไม่เจอ", "completion":"ask_policy"}
+{"prompt":"ช่วยขึ้นรายการกมทันให้หน่อย", "completion":"ask_policy"}
+{"prompt":"ขอดูกลมมะทอนทั้งหมดของเราหน่อย", "completion":"ask_policy"}
+{"prompt":"ฉันจะดึงข้อมูลกรมทันทั้งหมด", "completion":"ask_policy"}
+{"prompt":"ดิฉันมีกี่เล่มคะ", "completion":"ask_policy"}
+{"prompt":"ติดต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับคน", "completion":"Contact_agent"}
+{"prompt":"อยากติดต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ขอคุยกับเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ขอติดต่อกับคน", "completion":"Contact_agent"}
+{"prompt":"อยากคุยกับคน", "completion":"Contact_agent"}
+{"prompt":"จะคุยกับคน", "completion":"Contact_agent"}
+{"prompt":"ไม่คุยกับบอท", "completion":"Contact_agent"}
+{"prompt":"คุยไม่รู้เรื่อง", "completion":"Contact_agent"}
+{"prompt":"คุยคนหน่อย", "completion":"Contact_agent"}
+{"prompt":"คุยกับจนท", "completion":"Contact_agent"}
+{"prompt":"ติดต่อ​เจ้าหน้าที่​ค่ะ", "completion":"Contact_agent"}
+{"prompt":"ไม่เข้าใจ", "completion":"Contact_agent"}
+{"prompt":"แอดมินคะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อซิกน่า", "completion":"Contact_agent"}
+{"prompt":"คนหรือระบบ", "completion":"Contact_agent"}
+{"prompt":"คือจะคุยกับคนในนี้ไม่มีใช่ไหม", "completion":"Contact_agent"}
+{"prompt":"สอบถามค่ะ", "completion":"Contact_agent"}
+{"prompt":"ถามหน่อยค่ะ", "completion":"Contact_agent"}
+{"prompt":"ถามหน่อยครับ", "completion":"Contact_agent"}
+{"prompt":"สอบถามครับ", "completion":"Contact_agent"}
+{"prompt":"งงมากแม่", "completion":"Contact_agent"}
+{"prompt":"สอบถามเกี่ยวกับกรมทัน", "completion":"Contact_agent"}
+{"prompt":"ลงทะเบียนไม่ได้", "completion":"Contact_agent"}
+{"prompt":"พิมอะไรค่ะไม่เข้าใจ", "completion":"Contact_agent"}
+{"prompt":"แอดมิน", "completion":"Contact_agent"}
+{"prompt":"สอบถามคะ", "completion":"Contact_agent"}
+{"prompt":"อ่านเเล้วไม่ตอบ", "completion":"Contact_agent"}
+{"prompt":"สอบถาม​", "completion":"Contact_agent"}
+{"prompt":"ติดต่อ", "completion":"Contact_agent"}
+{"prompt":"อ่านแล้วไม่ตอบ", "completion":"Contact_agent"}
+{"prompt":"ทำแบบใหน​ค่ะ", "completion":"Contact_agent"}
+{"prompt":"ทำแล้วมันไม่ไป", "completion":"Contact_agent"}
+{"prompt":"ติดต่อเจ้าหน้าที่ไม่ได้ครับ", "completion":"Contact_agent"}
+{"prompt":"แลกคะเเนนยังไงครับ", "completion":"Contact_agent"}
+{"prompt":"รบกวนสอบถามค่ะ", "completion":"Contact_agent"}
+{"prompt":"สอบถามเพิ่มเติมหน่อยคะ", "completion":"Contact_agent"}
+{"prompt":"สอบถามหน่อยค่ะ", "completion":"Contact_agent"}
+{"prompt":"บัตรกรมธรรม์ ยังไม่ได้เลยค่ะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อยากจัง", "completion":"Contact_agent"}
+{"prompt":"ติดต่อยากมากครับ", "completion":"Contact_agent"}
+{"prompt":"ขอเบอรติดต่อด้วยค่ะ", "completion":"Contact_agent"}
+{"prompt":"รบกวนให้พนักงานติดต่อกลับด้วยครับ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อยากมากค่ะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อเจ้าหน้าที่ไม่ได้เลยค่ะ", "completion":"Contact_agent"}
+{"prompt":"ขอเบอร์โทรติดต่อฝ่ายกรมธรรม์ค่ะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อใครไม่ได้เลย", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับเซลล์", "completion":"Contact_agent"}
+{"prompt":"ต้องการจะสอบถามเบี้ยประกันภัย", "completion":"Contact_agent"}
+{"prompt":"อยากสอบถามว่า", "completion":"Contact_agent"}
+{"prompt":"ขอเบอรติดต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"สอบถามข้อมูล", "completion":"Contact_agent"}
+{"prompt":"อยากสอบถามค่า", "completion":"Contact_agent"}
+{"prompt":"สอบถามหน่อยครับ", "completion":"Contact_agent"}
+{"prompt":"ต้องการทราบ", "completion":"Contact_agent"}
+{"prompt":"โทรติดต่อใม่ใด้เลยครับ", "completion":"Contact_agent"}
+{"prompt":"รบกวนสอบถามครับ", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับเจ้าหน้าที่คะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อที่ไหนค่ะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อยากมาก", "completion":"Contact_agent"}
+{"prompt":"สอบถามเรื่องเบี้ยประกันครับ", "completion":"Contact_agent"}
+{"prompt":"ขอสอบถามรายละเอียดหน่อยครับ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อพนักงานเรื่องเบี้ยประกัน", "completion":"Contact_agent"}
+{"prompt":"คุยกับคน", "completion":"Contact_agent"}
+{"prompt":"แอดมินคะ ", "completion":"Contact_agent"}
+{"prompt":"จะสอบถาม", "completion":"Contact_agent"}
+{"prompt":"กรุณาแจ้งกลับด้วยนะคะ", "completion":"Contact_agent"}
+{"prompt":"สนใจ เบี้ยรายเดือนเท่าไหร่ครับ", "completion":"Contact_agent"}
+{"prompt":"ไม่ตอบ", "completion":"Contact_agent"}
+{"prompt":"ไม่รู้เรื่องเลย", "completion":"Contact_agent"}
+{"prompt":"วันนี้ไม่มีหักเงินเลยนะคะ", "completion":"Contact_agent"}
+{"prompt":"เรียกเก็บไปยังคะ", "completion":"Contact_agent"}
+{"prompt":"ยังไม่มีรายการหัก", "completion":"Contact_agent"}
+{"prompt":"คนมาคน", "completion":"Contact_agent"}
+{"prompt":"เอาคนมาตอบสิ่", "completion":"Contact_agent"}
+{"prompt":"อยากทราบว่าจะหักเบี้ยประกันวันไหนคะ", "completion":"Contact_agent"}
+{"prompt":"อยากทราบเบอร์call center", "completion":"Contact_agent"}
+{"prompt":"ติดต่อโทรไปหลายรอบแล้วครับ", "completion":"Contact_agent"}
+{"prompt":"ดิฉันจะปรึกษาค่ะ", "completion":"Contact_agent"}
+{"prompt":"มีพนักงานไหมคับ", "completion":"Contact_agent"}
+{"prompt":"ไม่มีคนรับเลย", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับพนักงานค่ะ", "completion":"Contact_agent"}
+{"prompt":"ติดต่อใครได้", "completion":"Contact_agent"}
+{"prompt":"กรอกข้อมูลกลับขึ้นว่าไม่พบข้อมูลในระบบ", "completion":"Contact_agent"}
+{"prompt":"เข้าไปกรอกไม่ได้ค่ะ", "completion":"Contact_agent"}
+{"prompt":"มีเรื่องจะรบกวนสอบถามเกี่ยวกับการชำนะ", "completion":"Contact_agent"}
+{"prompt":"เจ้าหน้าที่ช่วยที", "completion":"Contact_agent"}
+{"prompt":"เจ้าหน้าที่ช่วยหน่อย", "completion":"Contact_agent"}
+{"prompt":"แจ้งปัญหา", "completion":"Contact_agent"}
+{"prompt":"แอดมินช่วยด้วย", "completion":"Contact_agent"}
+{"prompt":"แอดมินช่วยที", "completion":"Contact_agent"}
+{"prompt":"แอดมินช่วยหน่อย", "completion":"Contact_agent"}
+{"prompt":"ขอคุยแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ขอคุยกับคน", "completion":"Contact_agent"}
+{"prompt":"ขอคุยกับพนักงาน", "completion":"Contact_agent"}
+{"prompt":"คุยกับพนักงาน", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับพนักงาน", "completion":"Contact_agent"}
+{"prompt":"อยากคุยกับเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ติดต่อจนท", "completion":"Contact_agent"}
+{"prompt":"Contact Agent", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อพนักงาน", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อกับแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อกับพนักงาน", "completion":"Contact_agent"}
+{"prompt":"ต้องการติดต่อกับเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกับเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกะแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกะพนักงาน", "completion":"Contact_agent"}
+{"prompt":"ต้องการคุยกะเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ติดต่อแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ขอคุยกับแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ขอติดต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ขอคุยกะแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ขอปรึกษาแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ขอปรึกษาเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ขอปรึกษาพนักงาน", "completion":"Contact_agent"}
+{"prompt":"คุยกะแอดมิน", "completion":"Contact_agent"}
+{"prompt":"คุยกับเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"คุยกับแอดมิน", "completion":"Contact_agent"}
+{"prompt":"ติต่อเจ้าหน้าที่", "completion":"Contact_agent"}
+{"prompt":"ต้องการเปลี่ยนแปลงที่อยู่", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการให้เอกสารส่งมาที่อยู่ใหม่ทำยังไงบ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"ที่อยู่เดิมไม่ได้อยู่แล้วเปลี่ยนเป็นที่อยู่ใหม่ได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนที่อยู่", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนแปลงข้อมูลที่อยู่ต้องทำยังไงคะ", "completion":"how_to_change_somethings"}
+{"prompt":"อยากเปลี่ยนแปลงข้อมูลที่อยู่ต้องทำยังไงบ้างคะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอทราบวิธีการเปลี่ยนแปลงข้อมูลที่อยู่หน่อยค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนบัตรเครดิตใบใหม่ทำยังไงครับ", "completion":"how_to_change_somethings"}
+{"prompt":"บัตรเครดิตหาย จะจ่ายเงินยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนบัตรเครดิตจะทำไงครับ", "completion":"how_to_change_somethings"}
+{"prompt":"บัตรเครดิตหาย ขอแจ้งเปลี่ยนบัตร", "completion":"how_to_change_somethings"}
+{"prompt":"บัตรเครดิตใบเก่าหมดอายุจะเปลี่ยนเป็นบัตรใบใหม่ยังไงค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ทางธนาคารส่งบัตรมาให้ใหม่ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนแปลงบัตรเครดิตในการชำระเบี้ยประกัน", "completion":"how_to_change_somethings"}
+{"prompt":"จะแจ้งเปลี่ยนชื่อ-สกุล ต้องใช้เอกสารอะไรบ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"จะแจ้งเปลี่ยนนามสกุล ต้องทำยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"จะแจ้งเปลี่ยนชื่อ ต้องใช้เอกสารอะไรบ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"ไม่อยากให้ตัดผ่านบัตรเครดิต/บัญชี จะชำระเงินวิธีไหนได้บ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการยกเลิกการตัดบัญชี/เครดิตต้องทำอย่างไรครับ", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการชำระเบี้ยด้วยเงินสดทำยังไงบ้างค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"คือต้องการเปลี่ยนแปลงบัตรเครดิตที่ใช้ตัดเบี้ยค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอแจ้งเปลี่ยนที่อยู่ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอแจ้งเปลี่ยนที่อยู่ส่งเอกสารค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนข้อมูลในกรมธรรม์ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนข้อมูลเบอร์โทรในกรมธรรม์", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนช่องทางที่จะรับเงินเวนคืน ของแบบประกัน เซฟวิ่งไลท์ 15/5 ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนการรับเงินคืนประจำปีแบบเช็คมาเป็นการเข้าบัญชีอัตโนมัติ", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนงวด การชำระเบี้ยได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนที่ส่งเอกสาร", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนแปลงที่อยู่ในการส่งเอกสารค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนแปลงสัญญา", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อออนไลน์ได้ไหมครับ", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนที่อยู่ใหม่ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนนามสกุลค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนเบอร์โทร.ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนเบอร์โทรค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไข เปลี่ยนแปลง ชื่อ-สกุล", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนที่อยู่ ในการจัดส่งเอกสารทั้งหมด", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนที่อยู่จัดส่งเอกสารค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนเบอร์มือถือค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนเลขที่บัตรเครดิตในการชำระค่าเบี้ยประกันภัยรายเดือน", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนเวลาค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนหมายเลขโทรศัพท์ใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนนามสกุลในกรรมธรรม์คับ", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนแปลงที่อยู่ในการจัดส่งเอกสารค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนแปลง​ผู้รับผลประโยชน์​", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนผู้รับผลประโยชน์​", "completion":"how_to_change_somethings"}
+{"prompt":"ถ้าจะเปลี่ยนชื่อผู้รับผลประโยนช์ในกรมธรรม์ จะแจ้งเปลี่ยนได้ยังไงบ้างครับ", "completion":"how_to_change_somethings"}
+{"prompt":"ถ้าอยากเปลี่ยนเบอร์โทร สามารถเปลี่ยนทางนี้ได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนทางนี้ได้ไหมคะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนที่อยู่จัดส่งเอกสารคะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนเป็นโอนเข้าบัญชี", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนผู้รับผลประโยชน์​จสกกรมธรรม์​ได้ไหมคะ", "completion":"how_to_change_somethings"}
+{"prompt":"ผมขอเปลี่ยนเบอร์โทรศัพท์ได้ไหมครับ", "completion":"how_to_change_somethings"}
+{"prompt":"ผมอยากเปลี่ยนข้อมูลส่วนตัวคับ", "completion":"how_to_change_somethings"}
+{"prompt":"พอดีจะเปลี่ยนชื่ิอผู้รับผลประโยชน์ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"พอดีเปลี่ยนเบอร์โทรแล้วอ่ะค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"พอดีมีการเปลี่ยนแปลงบัตรเครดิต", "completion":"how_to_change_somethings"}
+{"prompt":"เรื่องเปลี่ยนบัตรเครดิตชำระกรมธรรม์ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"อยากเปลี่ยนข้อมูลส่วนตัวคับ", "completion":"how_to_change_somethings"}
+{"prompt":"อยากเปลี่ยนรูปแบบการชำระเงินครับ", "completion":"how_to_change_somethings"}
+{"prompt":"อยากเปลี่ยนวิธีการรับใบเสร็จนะคะ", "completion":"how_to_change_somethings"}
+{"prompt":"เอกสารที่ส่งไปเปลี่ยนชื่อ นามสกุลถึงยังคะ", "completion":"how_to_change_somethings"}
+{"prompt":"การเปลี่ยนบัตรเครดิตใบใหม่จ่ายเงินคะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแจ้งเปลี่ยนเบอ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแจ้งเปลี่ยนเบอร์โทรติดต่อค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแจ้งเปลี่ยนแปลงการชำระเบี้ยประกันค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนที่อยู่จัดส่งเอกสาร", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนที่อยู่จัดส่งเอกสารทั้งหมด", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนเบอร์ในระบบด้วยได้ไหมค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนแปลงที่อยู่ในการจัดส่งเอกสาร", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเอกสารที่ใช้เปลี่ยนแปลง ผุ้รับประโยชน์", "completion":"how_to_change_somethings"}
+{"prompt":"คือว่าอยากขอเปลี่ยนที่อยู่การส่งเอกสารครับ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนช่องทาง จะจ่ายทางมือถือ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนแปลงนามสกุลผู้รับผลประโยชน์คะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะขอเปลี่ยนอีเมลค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะแจ้งเปลี่ยน เบอมือถือติดต่อครับ", "completion":"how_to_change_somethings"}
+{"prompt":"จะแจ้งเปลี่ยนเบอร์โทรศัพใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"จะทำการเปลี่ยนบัญชีธนาคาร ทำไงค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนที่อยู่จัดส่งเอกสาร", "completion":"how_to_change_somethings"}
+{"prompt":"จะเปลี่ยนเบอร์โทรศัพท์ครับ", "completion":"how_to_change_somethings"}
+{"prompt":"จะรบกวนขอให้เปลี่ยนแปลงที่อยู่ปัจจุบันค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนบัตรเครดิต", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนชื่อ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนนามสกุล", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนคำนำหน้า", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนสถานภาพ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนสถานภาพสมรส", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนลายเซ็น", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนชื่อสกุล", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนสกุล", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนงวดจ่ายเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนงวดการชำระเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนงวด", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนรอบชำระเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนรอบจ่ายเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนข้อมูลค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนข้อมูลได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนแปลงข้อมูล", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนวิธีคืนตัง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่นวิธีคืนตังคะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนวิธีรับตังค์", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนวิธีรับตังค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนวิธีรับตังค์ครับ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนวิธีรับสตาง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับเงินคืน", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับเงินคืนครับ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับเงินคืนค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับตังคืน", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนการรับตังคืน", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนการรับตังค์คืน", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนการรับตังคืนครับ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนการรับเงินคืนครับ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่นวิธีคืนตังค์ค่ะ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่นวิธีคืนตังครับ", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับตัง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับตังค์", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับสตาง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับเงิน", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนช่องทางรับเงินครับ", "completion":"how_to_change_somethings"}
+{"prompt":"ทำประกันรถนยต์แล้ว ต้องการการแก้ไขผู้รับผลประโยชน์ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนชื่อผู้รับผลประโยชน์ยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ถามวิธีการเปลี่ยนชื่อผู้รับผลประโยชน์", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนชื่อผู้รับผลประโยชน์ต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนชื่อผู้รับผลประโยชน์ต้องแจ้งใคร", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์ต้องใช้เอกสารอะไรบ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์แจ้งผ่านช่องทางไหนได้บ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์ติดต่อผ่านช่องทางไหนได้บ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์ต้องติดต่อได้ช่องทางไหน", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์ต้องส่งเรื่องยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ทำประกันรถยนต์แล้วต้องการการแก้ไขผู้รับผลประโยชน์ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับประโยชน์ต้องส่งเรื่องยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งเปลี่ยนชื่อผู้รับผลประโยชน์แจ้งผ่านช่องทางไหนบ้าง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการเปลี่ยนตัวแทนได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"ต่ออายุแล้วเปลี่ยนตัวแทนนได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"อยากให้ตัวแทนอื่น", "completion":"how_to_change_somethings"}
+{"prompt":"อยากเปลี่ยนตัวแทนได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"อยากทำประกันกับตัวแทนใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"อยากแจ้งประกันกับตัวแทนอื่น", "completion":"how_to_change_somethings"}
+{"prompt":"ต่ออายุกับตัวแทนประกันอื่นได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการต่ออายุประกันกับตัวแทนใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"อยากทำประกันตัวแทนใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"ต่ออายุแล้วเปลี่ยนตัวแทนได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขที่อยู่ผิดทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเบอร์โทรศัพท์ทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขทีอยู่ในการจัดส่งเอกสารทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขหมายเลขโทรศํพท์ทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขบ้านเลขที่ทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขทำตำบลทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขอำเภอทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขรหัสไปรษณีย์ทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขจังหวัดทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"เปลี่ยนที่อยู่ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งที่อยู่ผิดอยากแก้ไขทำยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"แจ้งขอแก้ไขที่อยู่ในเอกสารกรมธรรม์ ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแก้ไขชื่อต้องแจ้งยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแก้ไขนามสกุลจะส่งเอกสารแก้ไขได้ยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแจ้งแก้ไขทะเบียนรถยนต์ใหม่", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแจ้งแก้ไขเลขตัวถังรถยนต์ แก้ไขยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเลขทะเบียนรถยนต์ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเลขตัวถังต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเลขเครื่องยนต์ต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขจำนวนซีซีรถต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแก้ไขเลขถังได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเลขตัวถังต้องทำยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแก้ไขเลขทะบียนรถต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแก้ไขเลขถังต้องแจ้งยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแจ้งแก้ไขเลขถังรถต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแก้ไขเลขถังรถต้องแจ้งยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแจ้งเปลี่ยนเลขถังรถยนต์ต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแจ้งเปลี่ยนเลขทะเบียนรถยนต์ต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแจ้งเปลี่ยนเลขทางรถยนต์ต้องติดต่อยังไง", "completion":"how_to_change_somethings"}
+{"prompt":"ซื้อรถต่อมาแล้วยังไม่เปลี่ยนชื่อทำได้ไหม", "completion":"how_to_change_somethings"}
+{"prompt":"แก้ไขเลขทะเบียนรถต้องทำอย่างไร", "completion":"how_to_change_somethings"}
+{"prompt":"ขอทราบวิธีการเปลียนงวดการชำระเบี้ยประกัน", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการแบ่งจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ต้องการผ่อนจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแบ่งจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนงวดชำระเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนงวดการจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนแปลงงวดการจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแบ่งจ่ายค่างวด", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนงวดการชำระ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอทะยอยจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแบ่งครึ่ง", "completion":"how_to_change_somethings"}
+{"prompt":"ขอแยกย่อยค่าเบี้ย", "completion":"how_to_change_somethings"}
+{"prompt":"ขอผ่อนชำระ", "completion":"how_to_change_somethings"}
+{"prompt":"ขอเปลี่ยนงวด", "completion":"how_to_change_somethings"}
+{"prompt":"ขอขั้นตอนเปลี่ยนงวด", "completion":"how_to_change_somethings"}
+{"prompt":"สอบถามการแบ่งจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"สอบถามผ่อนจ่าย", "completion":"how_to_change_somethings"}
+{"prompt":"สอบถามวิธีทำให้ค่างวดน้อยลง", "completion":"how_to_change_somethings"}
+{"prompt":"อยากได้ข้อมูลเกี่ยวกับประกันสุขภาพ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันสุขภาพ", "completion":"want_info"}
+{"prompt":"อยากทราบประกันสุขภาพ", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันสุขภาพ", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันสุขภาพ", "completion":"want_info"}
+{"prompt":"มีประกันสุขภาพไหม", "completion":"want_info"}
+{"prompt":"ขอดูประกันสุขภาพหน่อย", "completion":"want_info"}
+{"prompt":"สนใจทำประกัน", "completion":"want_info"}
+{"prompt":"มีแบบประกันอะไรบ้าง", "completion":"want_info"}
+{"prompt":"อยากได้ประกันที่สามารถลดหย่อนภาษีได้", "completion":"want_info"}
+{"prompt":"สนใจทำประกันให้ลูก", "completion":"want_info"}
+{"prompt":"สนใจทำประกันให้พ่อ", "completion":"want_info"}
+{"prompt":"สนใจทำประกันให้แม่", "completion":"want_info"}
+{"prompt":"สนใจทำประกันให้สามี", "completion":"want_info"}
+{"prompt":"สนใจทำประกันให้ภรรยา", "completion":"want_info"}
+{"prompt":"ซื้อประกัน", "completion":"want_info"}
+{"prompt":"อยากทำประกัน", "completion":"want_info"}
+{"prompt":"อยากซื้อประกัน", "completion":"want_info"}
+{"prompt":"ขายประกันอะไรบ้าง", "completion":"want_info"}
+{"prompt":"มีประกันอะไรขาย", "completion":"want_info"}
+{"prompt":"มีประกันแบบไหนบ้าง", "completion":"want_info"}
+{"prompt":"ศึกษาประกัน", "completion":"want_info"}
+{"prompt":"สนใจปะกัน", "completion":"want_info"}
+{"prompt":"มีประกันอะไรแนะนำบ้างครับ", "completion":"want_info"}
+{"prompt":"สนใจทำประกันครับ", "completion":"want_info"}
+{"prompt":"สนใจทำประกันค่ะ", "completion":"want_info"}
+{"prompt":"สนใจประกันครับ", "completion":"want_info"}
+{"prompt":"สนใจประกันจ้า", "completion":"want_info"}
+{"prompt":"จะทำประกัน", "completion":"want_info"}
+{"prompt":"จะซื้อประกัน", "completion":"want_info"}
+{"prompt":"มีประกันกี่ประเภทครับ", "completion":"want_info"}
+{"prompt":"ประกันมีกี่ประเภท", "completion":"want_info"}
+{"prompt":"ดูประกันหน่อย", "completion":"want_info"}
+{"prompt":"มีประกันอะไรบ้าง", "completion":"want_info"}
+{"prompt":"ไหนดูประกันหน่อยสิ", "completion":"want_info"}
+{"prompt":"แบบประกันที่ใช่", "completion":"want_info"}
+{"prompt":"สนใจแบบประกันที่ใช่", "completion":"want_info"}
+{"prompt":"ประกันที่ใช่", "completion":"want_info"}
+{"prompt":"อยากทำประกันชีวิต", "completion":"want_info"}
+{"prompt":"ทำประกันชีวิตยังไง", "completion":"want_info"}
+{"prompt":"มีประกันชีวิตมั้ย", "completion":"want_info"}
+{"prompt":"อยากดูประกันชีวิตหน่อยค่ะ", "completion":"want_info"}
+{"prompt":"ประกันชีวิตมีอะไรบ้าง", "completion":"want_info"}
+{"prompt":"มีประกันชีวิตอะไรบ้าง", "completion":"want_info"}
+{"prompt":"ผมอยากซื้อประกันชีวิตให้", "completion":"want_info"}
+{"prompt":"ประกันชีวิตนี่มีอะไรบ้างครับ", "completion":"want_info"}
+{"prompt":"มีประกันชีวิตอะไรช่วงนี้ดีๆ", "completion":"want_info"}
+{"prompt":"แนะนำประกันชีวิตหน่อยครับ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันชีวิตมีตัวไหนแนะนำบ้างคะ?", "completion":"want_info"}
+{"prompt":"มีประกันชีวิตกี่แบบครับ", "completion":"want_info"}
+{"prompt":"ซื้อประกันแบบไหนดี", "completion":"want_info"}
+{"prompt":"อยากดูประกันเพื่อการลงทุน", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันเพื่อการออมเงิน", "completion":"want_info"}
+{"prompt":"อยากทราบประกันเพื่อการออมเงิน", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันเพื่อออมเงิน", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันเพื่อออมเงิน", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันสะสมทรัพย์", "completion":"want_info"}
+{"prompt":"สอบถามเรื่องประกันสะสมทรัพย์", "completion":"want_info"}
+{"prompt":"อยากทราบเกี่ยวกับประกันสะสมทรัพย์", "completion":"want_info"}
+{"prompt":"มีประกันออมทรัพย์ไหม", "completion":"want_info"}
+{"prompt":"มีประกันออมเงินมั๊ย", "completion":"want_info"}
+{"prompt":"อยากได้ข้อมูลเกี่ยวกับประกันออมทรัพย์", "completion":"want_info"}
+{"prompt":"สนใจประกันชีวิตเพื่อสะสมทรัพย์", "completion":"want_info"}
+{"prompt":"อยากได้ประกันการออมเงินอ่ะ", "completion":"want_info"}
+{"prompt":"ประกันที่ช่วยออมเงิน", "completion":"want_info"}
+{"prompt":"ประกันไหนออมเงินบ้าง", "completion":"want_info"}
+{"prompt":"อยากทราบข้อมูลประกันการออมเงิน", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันออมทรัพย์มีอะไรบ้างคะ", "completion":"want_info"}
+{"prompt":"ขอดูประกันสะสมทรัพย์หน่อย", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันโรคร้ายแรง", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"อยากทราบประกันโรคร้ายแรง", "completion":"want_info"}
+{"prompt":"อยากทราบประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันโรคมะเร็ง", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันโรคร้ายแรง", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"อยากทราบรายละเอียดประกันโรคมะเร็ง", "completion":"want_info"}
+{"prompt":"มีประกันโรคมะเร็งไหม", "completion":"want_info"}
+{"prompt":"ซื้อประกันโรคมะเร็ง", "completion":"want_info"}
+{"prompt":"สอบถามประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"สนใจประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"ขอข้อมูลประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"อยากได้รายละเอียดประกันมะเร็ง", "completion":"want_info"}
+{"prompt":"ขอดูประกันมะเร็งหน่อย", "completion":"want_info"}
+{"prompt":"ประกันโรคร้ายแรง", "completion":"want_info"}
+{"prompt":"สนใจประกันโรคร้ายแรง", "completion":"want_info"}
+{"prompt":"มีประกันสำหรับโรคร้ายแรงป้ะ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"อยากทราบประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"มีประกันอุบัติเหตุไหม", "completion":"want_info"}
+{"prompt":"ซื้อประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"ขอข้อมูลประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"อยากได้รายละเอียดประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"ขอดูประกันอุบัติเหตุหน่อย", "completion":"want_info"}
+{"prompt":"อยากทำประกันคนกล้า เอกซ์ตร้า", "completion":"want_info"}
+{"prompt":"อยากทำประกันคนกล้า", "completion":"want_info"}
+{"prompt":"สนใจประกันคนกล้า เอกซ์ตร้า", "completion":"want_info"}
+{"prompt":"ขอข้อมูลประกันคนกล้า", "completion":"want_info"}
+{"prompt":"สนใจประกันคนกล้า", "completion":"want_info"}
+{"prompt":"สนใจที่จะรู้เรื่องประกันอุบัติเหตุ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันสำหรับเกษียณ", "completion":"want_info"}
+{"prompt":"อยากทราบประกันเพื่อการเกษียณ", "completion":"want_info"}
+{"prompt":"อยากสอบถามประกันเกษียณอายุ", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันเพื่อการเกษียณ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันบำนาญ", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันบำนาญ", "completion":"want_info"}
+{"prompt":"สนใจประกันบำนาญ", "completion":"want_info"}
+{"prompt":"อยากทราบรายละเอียดประกันบำนาญ", "completion":"want_info"}
+{"prompt":"มีประกันเกษียณไหม", "completion":"want_info"}
+{"prompt":"มีประกันบำนาญไหม", "completion":"want_info"}
+{"prompt":"อยากทราบรายละเอียดประกันเกษียณ", "completion":"want_info"}
+{"prompt":"สอบถามประกันบำนาญ", "completion":"want_info"}
+{"prompt":"ขอข้อมูลประกันบำนาญ", "completion":"want_info"}
+{"prompt":"อยากได้รายละเอียดประกันบำนาญ", "completion":"want_info"}
+{"prompt":"ขอดูประกันบำนาญหน่อย", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันให้ลูก", "completion":"want_info"}
+{"prompt":"อยากทราบเกี่ยวกับประกันให้ลูก", "completion":"want_info"}
+{"prompt":"อยากทราบเกี่ยวกับประกันเพื่อการศึกษา", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันเพื่อการศึกษา", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันการศึกษา", "completion":"want_info"}
+{"prompt":"มีประกันการศึกษาไหม", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันการศึกษา", "completion":"want_info"}
+{"prompt":"อยากทราบรายละเอียดประกันการศึกษา", "completion":"want_info"}
+{"prompt":"อยากได้รายละเอียดประกันการศึกษา", "completion":"want_info"}
+{"prompt":"อยากได้ข้อมูลเกี่ยวกับประกันการศึกษา", "completion":"want_info"}
+{"prompt":"สอบถามประกันการศึกษา", "completion":"want_info"}
+{"prompt":"หาข้อมูลประกันเพื่อการศึกษา", "completion":"want_info"}
+{"prompt":"สนใจประกันเงินฝากให้ลูก", "completion":"want_info"}
+{"prompt":"อยากได้ประกันออมทรัพย์ให้ลูก", "completion":"want_info"}
+{"prompt":"ขอรายละเอียดประกันเงินลงทุนให้ลูก", "completion":"want_info"}
+{"prompt":"ขอทราบรายละเอียดประกันเงินออมเพื่อลูก", "completion":"want_info"}
+{"prompt":"มีประกันเงินออมให้ลูกไหม", "completion":"want_info"}
+{"prompt":"ต้องการสอบถามประกันเงินออมให้ลูก", "completion":"want_info"}
+{"prompt":"มีประกันให้ลูกอันไหนน่าสนใจบ้าง", "completion":"want_info"}
+{"prompt":"ขอข้อมูลเกี่ยวกับประกันเงินออมให้ลูกหน่อยครับ", "completion":"want_info"}
+{"prompt":"แนะนำประกันเงินฝากให้ลูกหน่อยครับ", "completion":"want_info"}
+{"prompt":"มีรายละเอียดประกันให้ลูกไหมครับ", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันออมทรัพย์ให้ลูกมีอะไรบ้างคะ", "completion":"want_info"}
+{"prompt":"ขอดูประกันเพื่อลูกหน่อย", "completion":"want_info"}
+{"prompt":"อยากซื้อประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"อยากทราบประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"อยากสอบถามเรื่องประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"อยากถามเกี่ยวกับประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"สอบถามประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"มีประกันชดเชยรายได้มั๊ย", "completion":"want_info"}
+{"prompt":"มีประกันชดเชยรายได้ไหม", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"หาข้อมูลประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"อยากได้รายละเอียดประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"สนใจประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"อยากให้แนะนำประกันชดเชยรายได้", "completion":"want_info"}
+{"prompt":"ประกันชดเชยรายได้อะไรดี", "completion":"want_info"}
+{"prompt":"ประกันที่นอนรพ.แล้วชดเชยรายได้", "completion":"want_info"}
+{"prompt":"ประกันที่จ่ายค่าแรง", "completion":"want_info"}
+{"prompt":"ประกันที่นอนรพ.แล้วได้เงินด้วย", "completion":"want_info"}
+{"prompt":"สอบถามแบบประกัน", "completion":"want_info"}
+{"prompt":"แบบประกัน", "completion":"want_info"}
+{"prompt":"ซื้อประกันออนไลน์", "completion":"want_info"}
+{"prompt":"ประกันออนไลน์", "completion":"want_info"}
+{"prompt":"ประกันออนมีอะไรบ้าง", "completion":"want_info"}
+{"prompt":"ประกันซื้อผ่านออนไลน์", "completion":"want_info"}
+{"prompt":"การซื้อประกันผ่านระบบออนไลน์", "completion":"want_info"}
+{"prompt":"ต้องการซื้อประกันออนไลน์", "completion":"want_info"}
+{"prompt":"ตอนนี้มีประกันออนไลน์ไหม", "completion":"want_info"}
+{"prompt":"มีการซื้อประกันแบบออนไลน์ไหม", "completion":"want_info"}
+{"prompt":"ซื้อประกันผ่านทางนี้ได้ไหใ", "completion":"want_info"}
+{"prompt":"ประกันออนไลน์คืออะไร", "completion":"want_info"}
+{"prompt":"ประกันออนไลน์ที่น่าสนใจ", "completion":"want_info"}
+{"prompt":"ซื้อประกันตอนนี้", "completion":"want_info"}
+{"prompt":"ซื้อประกันด้วยตัวเองตอนนี้", "completion":"want_info"}
+{"prompt":"ประกันซื้อผ่านทางออนไลน์", "completion":"want_info"}
+{"prompt":"อยากมีประกันออนไลน์", "completion":"want_info"}
+{"prompt":"อยากได้ประกันออนไลน์", "completion":"want_info"}
+{"prompt":"ขอรายละเอียดประกันออนไลน์", "completion":"want_info"}
+{"prompt":"สวัสดีครับ", "completion":"Greeting"}
+{"prompt":"สวัสดีค่ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีค่า", "completion":"Greeting"}
+{"prompt":"สวัสดีฮับ", "completion":"Greeting"}
+{"prompt":"สวัสดี", "completion":"Greeting"}
+{"prompt":"หวัดดี", "completion":"Greeting"}
+{"prompt":"ดี", "completion":"Greeting"}
+{"prompt":"ดีจ้า", "completion":"Greeting"}
+{"prompt":"ดีคร๊าบ", "completion":"Greeting"}
+{"prompt":"ซาหวัดดี", "completion":"Greeting"}
+{"prompt":"โย่ว", "completion":"Greeting"}
+{"prompt":"วอทสัพ", "completion":"Greeting"}
+{"prompt":"วอทสัพแมน", "completion":"Greeting"}
+{"prompt":"ดีครับ", "completion":"Greeting"}
+{"prompt":"โย่วว", "completion":"Greeting"}
+{"prompt":"Hi", "completion":"Greeting"}
+{"prompt":"Hello", "completion":"Greeting"}
+{"prompt":"เริ่มต้นการแชท", "completion":"Greeting"}
+{"prompt":"ฮาโหล", "completion":"Greeting"}
+{"prompt":"โหล", "completion":"Greeting"}
+{"prompt":"ดีค่ะ", "completion":"Greeting"}
+{"prompt":"ดีคับ", "completion":"Greeting"}
+{"prompt":"สวัสดีคับ", "completion":"Greeting"}
+{"prompt":"หวัดดีค่า", "completion":"Greeting"}
+{"prompt":"หวัดดีจ้า", "completion":"Greeting"}
+{"prompt":"ดีจ้ะ", "completion":"Greeting"}
+{"prompt":"หวัดดีคับ", "completion":"Greeting"}
+{"prompt":"หวัดดีค่ะ", "completion":"Greeting"}
+{"prompt":"หวัดดีจ้ะ", "completion":"Greeting"}
+{"prompt":"หวัดดีครับ", "completion":"Greeting"}
+{"prompt":"ฮัลโหล", "completion":"Greeting"}
+{"prompt":"โหลๆ", "completion":"Greeting"}
+{"prompt":"เฮโหล", "completion":"Greeting"}
+{"prompt":"ไฮ", "completion":"Greeting"}
+{"prompt":"good afternoon", "completion":"Greeting"}
+{"prompt":"Good Morning", "completion":"Greeting"}
+{"prompt":"Hey", "completion":"Greeting"}
+{"prompt":"sawasdee", "completion":"Greeting"}
+{"prompt":"ดีครัช", "completion":"Greeting"}
+{"prompt":"ดีค่า", "completion":"Greeting"}
+{"prompt":"ดีค้าบ", "completion":"Greeting"}
+{"prompt":"ดีงับ", "completion":"Greeting"}
+{"prompt":"ดีจ่ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีครัช", "completion":"Greeting"}
+{"prompt":"สวัสดีคร้า", "completion":"Greeting"}
+{"prompt":"สวัสดีจ๊ะ", "completion":"Greeting"}
+{"prompt":"หวัดดีครัช", "completion":"Greeting"}
+{"prompt":"หวัดดีคร้า", "completion":"Greeting"}
+{"prompt":"หวัดดีจ๊ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีคะ", "completion":"Greeting"}
+{"prompt":"ดีดี", "completion":"Greeting"}
+{"prompt":"สวัสดีจ้า", "completion":"Greeting"}
+{"prompt":"ดีคะ", "completion":"Greeting"}
+{"prompt":"ทักค่ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีคับรบกวนสอบถามครับผม", "completion":"Greeting"}
+{"prompt":"สวัสดีคร้าบ", "completion":"Greeting"}
+{"prompt":"สวัสดีคัฟ", "completion":"Greeting"}
+{"prompt":"สวัสดีค้าบ", "completion":"Greeting"}
+{"prompt":"สวัสดีงับ", "completion":"Greeting"}
+{"prompt":"สวัสดีจร้า", "completion":"Greeting"}
+{"prompt":"สวัสดีจ่ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีตอนเช้า", "completion":"Greeting"}
+{"prompt":"สวัสดีตอนบ่าย", "completion":"Greeting"}
+{"prompt":"สวัสดียามบ่าย", "completion":"Greeting"}
+{"prompt":"สึดดีครับ", "completion":"Greeting"}
+{"prompt":"หนีห่าว", "completion":"Greeting"}
+{"prompt":"หวัดดีค้าบ", "completion":"Greeting"}
+{"prompt":"หวัดดีจร้า", "completion":"Greeting"}
+{"prompt":"หวัดดีตอนเช้า", "completion":"Greeting"}
+{"prompt":"หวัดดีตอนเช้าข่ะ", "completion":"Greeting"}
+{"prompt":"หวัดดีตอนบ่าย", "completion":"Greeting"}
+{"prompt":"หวัดดียามเช้า", "completion":"Greeting"}
+{"prompt":"หวาดดีคัช", "completion":"Greeting"}
+{"prompt":"อรุณสวัสดิ์", "completion":"Greeting"}
+{"prompt":"อรุณสวัสดิ์ค่ะ", "completion":"Greeting"}
+{"prompt":"อันยอง", "completion":"Greeting"}
+{"prompt":"ฮาย", "completion":"Greeting"}
+{"prompt":"ฮาวอายู", "completion":"Greeting"}
+{"prompt":"ไงจ๊ะ", "completion":"Greeting"}
+{"prompt":"hi", "completion":"Greeting"}
+{"prompt":"สวัสดีครับผม", "completion":"Greeting"}
+{"prompt":"Hay", "completion":"Greeting"}
+{"prompt":"What's up", "completion":"Greeting"}
+{"prompt":"Good morning", "completion":"Greeting"}
+{"prompt":"Hi!", "completion":"Greeting"}
+{"prompt":"How are you?", "completion":"Greeting"}
+{"prompt":"Hello!", "completion":"Greeting"}
+{"prompt":"good evening", "completion":"Greeting"}
+{"prompt":"ดีคร่ะ", "completion":"Greeting"}
+{"prompt":"สวัสดีตอนเย็น", "completion":"Greeting"}
+{"prompt":"ทักทายครับ", "completion":"Greeting"}
+{"prompt":"สวัสดิ์", "completion":"Greeting"}
+{"prompt":"ดีฮะ", "completion":"Greeting"}
+{"prompt":"ทักทายคับ", "completion":"Greeting"}
+{"prompt":"ทักทายฮะ", "completion":"Greeting"}
+{"prompt":"ทักทายฮับ", "completion":"Greeting"}
+{"prompt":"ทักทายค่ะ", "completion":"Greeting"}
+{"prompt":"ทักทายฮ่ะ", "completion":"Greeting"}
+{"prompt":"ทักทายหะ", "completion":"Greeting"}
+{"prompt":"ทักทายจ้า", "completion":"Greeting"}
+{"prompt":"เฮ็ดจั่งได๋", "completion":"Greeting"}
+{"prompt":"เฮ็ดจังได๋", "completion":"Greeting"}
+{"prompt":"เฮ็ดจังได", "completion":"Greeting"}
+{"prompt":"เฮดจังได", "completion":"Greeting"}
+{"prompt":"สบายดี", "completion":"Greeting"}
+{"prompt":"ดีเจ้า", "completion":"Greeting"}
