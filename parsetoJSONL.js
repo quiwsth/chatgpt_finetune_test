@@ -2,7 +2,7 @@ const fs = require('fs');
 const csv = require('csv-parser');
 let results = []
 let intents = {}
-fs.createReadStream('./intents - Sheet 1.csv')
+fs.createReadStream('./intents - Sheet 2.csv')
     .pipe(csv({
         headers: false
     }))
@@ -24,14 +24,15 @@ fs.createReadStream('./intents - Sheet 1.csv')
         let keys = Object.keys(intents);
         // {"prompt":"Company: BHFF insurance\nProduct: allround insurance\nAd:One stop shop for all your insurance needs!\nSupported:", "completion":" yes"}
         // {"prompt":"Company: Loft conversion specialists\nProduct: -\nAd:Straight teeth in weeks!\nSupported:", "completion":" no"}
-        keys.forEach(key=>{
-            let payload = `{"prompt":"${intents[key].join('\\n')}", "completion":" ${key}"}\n`
-            fs.appendFileSync('./data3.jsonl', payload);
-        })
 
-        // for await (const [i, v] of results.entries()) {
-        //     let payload = `{"prompt":"${v.sample}", "completion":"${v.intent}"}\n`
-        //     console.log(payload)
-        //     fs.appendFileSync('./data.jsonl', payload);
-        // }
+        // keys.forEach(key=>{
+        //     let payload = `{"prompt":"${intents[key].join('\\n')}\\n\\n###\\n\\n", "completion":"${key} END"}\n`
+        //     fs.appendFileSync('./data6.jsonl', payload);
+        // })
+
+        for await (const [i, v] of results.entries()) {
+            let payload = `{"prompt":"${v.sample}\\n\\n###\\n\\n", "completion":"${v.intent} END"}\n`
+            console.log(payload)
+            fs.appendFileSync('./data8.jsonl', payload);
+        }
     });

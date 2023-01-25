@@ -8,7 +8,7 @@ const openai = new OpenAIApi(configuration);
 
 async function createFineTune(){
     const response = await openai.createFineTune({
-        training_file: "file-E6Soh8Dpb8Njz1Qu8A6Stb82",
+        training_file: "file-iws1rYEjAmHQLGQIMbfV9iuz",
       });
       console.log(response.data)
 }

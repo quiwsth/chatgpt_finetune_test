@@ -8,10 +8,12 @@ const openai = new OpenAIApi(configuration);
 
 async function useModel() {
   const response = await openai.createCompletion({
-    model: "curie:ft-personal-2023-01-20-03-54-50",
-    prompt: "google",
+    model: "curie:ft-personal-2023-01-25-16-11-57", // curie:ft-personal-2023-01-25-16-11-57
+    prompt: "สวัสดีครับทุกท่าน ผมชื่อคิวมีเรื่องอยากถาม โรงบาลอยู่ไหนอะคับ\n\n###\n\n",
     temperature: 1,
-    max_tokens:200
+    max_tokens:10,
+    echo:false,
+    stop: ["END"]
   });
   console.log(response.data)
 }
