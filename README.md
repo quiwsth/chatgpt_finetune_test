@@ -1,3 +1,5 @@
+npm i
+
 # chatgpt_finetune_test
 
 Set .env for OPENAI_API_KEY first and then
@@ -16,3 +18,5 @@ example getListFineTune.js
 
 5. Use your model
 exmaple useModel.js
+
+node ./{{Script}}.js
